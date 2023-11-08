@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Milan Hirani!</h1>
 
 
-<h3 align="center">A passionate Fullstack Software Developer from India</h3>
+<h3 align="center">A passionate React Native Developer from India</h3>
 
 
 ### Glad to see you here!  
-Welcome to my GitHub profile! I am a passionate React-Native and Node.js Developer with a focus on building scalable and performant apps. My expertise lies in JavaScript, React-Native, Android & iOS application development, and Redux. I love the process of building app and UI components from prototypes and working with native modules to create seamless integrations. I have a firm grasp of JavaScript, including ES6+, and take pride in writing well-documented and clean code.
+Welcome to my GitHub profile! I am a passionate React-Native Developer with a focus on building scalable and performant apps. My expertise lies in JavaScript, React-Native, Android & iOS application development, and Redux. I love the process of building app and UI components from prototypes and working with native modules to create seamless integrations. I have a firm grasp of JavaScript, including ES6+, and take pride in writing well-documented and clean code.
 
 
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a passionate React-Native and Node.js Develop
 - 🌱 I’m currently learning React JS  
   
 
-- ❓ Ask me about anything related to React Native and Nide.js & JavaScript  
+- ❓ Ask me about anything related to React Native and Node.js & JavaScript  
   
 
 - 📫 How to reach me milanhirani2712@gmail.com  
